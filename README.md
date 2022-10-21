@@ -70,4 +70,6 @@ TELEGRAM_CHAT_ID = *токен пользователя в телеграм*
 ```
 6. Запустить файл homework.py, либо выложить проект на виртуальный сервер.
 ```
-Авторы - DoeryMK
+### Авторы
+
+[DoeryMK](https://github.com/DoeryMK)
